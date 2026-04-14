@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: "#121312"  ##====================================[REQUIRED]==========
+  image: assets/images/logo_movies.png
+  branding: assets\images\branding3.png
+  branding_bottom_padding: 24          # default 0
+
+
+  android_12:
+    color: "#121312"
+    image: assets/images/and12movies.png
+    branding: assets\images\branding3.png
